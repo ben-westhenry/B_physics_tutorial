@@ -20,8 +20,8 @@ signal is reasonably clean compared to the combinatorial background.
 
 ## Environment
 
-The python environment here is managed using 'conda' follow this link to install
-[link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
+The python environment here is managed using 'conda' follow this [link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) to install.
+
 
 To create the 'conda' environment after installation:
 
